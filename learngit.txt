@@ -4,3 +4,4 @@ git is so easy
 git is so cheap
 git add 5th
 git new brach
+git break 1 master
