@@ -5,3 +5,5 @@ git is so cheap
 git add 5th
 git new brach
 git mereg same
+
+int main();
