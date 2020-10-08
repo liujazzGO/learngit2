@@ -7,3 +7,7 @@ git new brach
 git mereg same
 
 int main();
+
+fix bug2();
+fix bug1();
+
